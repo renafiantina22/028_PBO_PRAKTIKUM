@@ -25,7 +25,7 @@ Praktikum 5 membahas beberapa konsep utama, yaitu:
 ## Struktur Repository
 
 ```text
-PBO-PRAKTIKUM_3/
+028_PBO_PRAKTIKUM/
 └── Praktikum 5/
     ├── Tugas05_2A_251511028_Rena Fiantina.pdf
     └── src/
