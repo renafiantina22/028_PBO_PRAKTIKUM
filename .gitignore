@@ -1,4 +1,8 @@
 ﻿*
 !.gitignore
-!Praktikum 5/
-!Praktikum 5/**
+
+!Pertemuan 4/
+Pertemuan 4/*
+!Pertemuan 4/Praktikum4/
+!Pertemuan 4/Praktikum4/**
+*.class
