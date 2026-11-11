@@ -6,3 +6,9 @@ Pertemuan 4/*
 !Pertemuan 4/Praktikum4/
 !Pertemuan 4/Praktikum4/**
 *.class
+
+!Praktikum 9/
+!Praktikum 9/pom.xml
+!Praktikum 9/src/
+!Praktikum 9/src/**
+Praktikum 9/target/
