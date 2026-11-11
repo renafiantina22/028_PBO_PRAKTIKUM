@@ -53,4 +53,18 @@ public class BankAccount  {
 
         balance -= amount;
     }
+    
+    public void transfer(BankAccount target, double amount)
+            throws InsufficientBalanceException {
+
+        if (target == null) {
+            throw new IllegalArgumentException(
+                "Rekening tujuan tidak boleh null"
+            );
+        }
+
+        withdraw(amount);
+        target.deposit(amount);
+    }
+
 }
